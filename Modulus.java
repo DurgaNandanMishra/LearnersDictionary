@@ -13,4 +13,5 @@ class Modulus
 		}
 		
 	}
+      System.out.println("My prog is aswm.");
 }
